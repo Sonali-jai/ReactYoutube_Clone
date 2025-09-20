@@ -8,6 +8,7 @@ It allows users to browse videos, view details, and navigate through a responsiv
 🚀 Live Link
 
 Check out the live project here: [  https://clone-app643.web.app/  ]
+
 🛠 Tech Stack
 
 Frontend: React, Vite
@@ -20,7 +21,9 @@ APIs: YouTube API (if integrated for data)
 
 📸 Screenshots
 
-Home Page
+Home Page 
+
+
 
 
 Video Page
