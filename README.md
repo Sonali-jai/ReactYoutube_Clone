@@ -29,12 +29,14 @@ The Home Page showcases trending videos, recommended content, and categories. Us
 ![Home Page](Home.png)
 
 Video Page
+
 Description:
 The Video Page lets users watch a selected video with player controls, video description, and related videos suggested on the sidebar. Users can also like/dislike videos and explore more content from the same channel.
 
-
+![Video Page](video.png)
 
 Dashboard Page 
+
 Description:
 The Dashboard provides users with an overview of their account, including saved videos, history, and preferences. It’s a centralized hub for managing personal content and settings within the app.
 
