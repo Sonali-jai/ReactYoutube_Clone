@@ -22,10 +22,11 @@ APIs: YouTube API (if integrated for data)
 📸 Screenshots
 
 Home Page 
+
 Description:
 The Home Page showcases trending videos, recommended content, and categories. Users can scroll through video thumbnails, see video titles, and quickly navigate to their favorite content. The search bar allows users to find specific videos seamlessly.
 
-
+[Home.png ]
 
 Video Page
 Description:
