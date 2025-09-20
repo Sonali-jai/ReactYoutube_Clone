@@ -22,15 +22,25 @@ APIs: YouTube API (if integrated for data)
 📸 Screenshots
 
 Home Page 
-
+Description:
+The Home Page showcases trending videos, recommended content, and categories. Users can scroll through video thumbnails, see video titles, and quickly navigate to their favorite content. The search bar allows users to find specific videos seamlessly.
 
 
 
 Video Page
+Description:
+The Video Page lets users watch a selected video with player controls, video description, and related videos suggested on the sidebar. Users can also like/dislike videos and explore more content from the same channel.
+
+
+
+Dashboard Page 
+Description:
+The Dashboard provides users with an overview of their account, including saved videos, history, and preferences. It’s a centralized hub for managing personal content and settings within the app.
+
+
 
 
 Search Feature
-
 
 ⚡ Features
 
@@ -48,7 +58,7 @@ Modern React + Vite setup
 
 Clone the repository:
 
-git clone https://github.com/Sonali-jai/ReactYoutube_Clone.git
+[git clone https://github.com/Sonali-jai/ReactYoutube_Clone.git]
 
 
 Navigate to the project folder:
@@ -58,17 +68,17 @@ cd ReactYoutube_Clone
 
 Install dependencies:
 
-npm install
+[npm install]
 
 
 Run the development server:
 
-npm run dev
+[npm run dev]
 
 
 Build for production:
 
-npm run build
+[npm run build]
 
 
 Deploy to Firebase (optional if you want to redeploy):
@@ -81,7 +91,7 @@ Fork the repository
 
 Create a branch for your feature
 
-git checkout -b feature/your-feature
+[git checkout -b feature/your-feature]
 
 
 Commit your changes
@@ -91,7 +101,7 @@ git commit -m "Add new feature"
 
 Push to the branch
 
-git push origin feature/your-feature
+[git push origin feature/your-feature]
 
 
 Create a Pull Request
