@@ -7,7 +7,7 @@ It allows users to browse videos, view details, and navigate through a responsiv
 
 🚀 Live Link
 
-Check out the live project here: React YouTube Clone 
+Check out the live project here: [ React YouTube Clone ] https://clone-app643.web.app/
 
 🛠 Tech Stack
 
