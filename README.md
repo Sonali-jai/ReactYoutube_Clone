@@ -40,7 +40,7 @@ Dashboard Page
 Description:
 The Dashboard provides users with an overview of their account, including saved videos, history, and preferences. It’s a centralized hub for managing personal content and settings within the app.
 
-
+![Dashboard Page](dashboard.png)
 
 
 Search Feature
